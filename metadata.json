@@ -1,0 +1,5 @@
+{
+  "name": "Lagree W - Host Scheduling - Coquitlam",
+  "description": "An intelligent staff scheduling assistant that uses Gemini to assign studio hosts to monthly shifts based on availability and constraints.",
+  "requestFramePermissions": []
+}
