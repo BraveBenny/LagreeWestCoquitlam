@@ -40,7 +40,7 @@ export const DailyScheduleList: React.FC<DailyScheduleListProps> = ({ shifts, st
         </div>
         <div>
             <h3 className="text-lg font-bold text-gray-800">Daily Breakdown</h3>
-            <p className="text-xs text-gray-500">Detailed chronologcial view</p>
+            <p className="text-xs text-gray-500">Detailed chronologcial LWC view</p>
         </div>
       </div>
       
